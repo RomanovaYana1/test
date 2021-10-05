@@ -4,4 +4,9 @@
 	<age>30</age>
 	<animal>0</animal>
 	<salary>3000$</salary>
+	<movie>Отпуск по обмену</movie>
+	<serial>Как я встретил вашу маму</serial>
+	<food>пицца</food>
+        <season>лето</season>
+	<country>Франция</country>
 </Student>
